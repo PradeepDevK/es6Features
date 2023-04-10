@@ -15,6 +15,7 @@ Below is the list of ES6 features every JS developer should know,
 - [for..of](#forof-loop)
 - [default parameters](#default-parameters)
 - [template strings](#template-strings)
+- 
 
 ## ECMAScript 6 Features
 
